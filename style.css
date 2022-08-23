@@ -1,11 +1,11 @@
 body {background-color: rgb(228, 161, 172);}
 h1{font-size: 80px; color: rgb(0, 0, 0);}
 #banner {width:100%;}
-p{background: #e7dada; padding: 30px;}
+p{background: #ece2e2; padding: 30px;}
 p {text-align: center; color: black;}
 #missao {font-size: color rgb(12, 12, 12) 20px}
-em strong {color: #08080800;}
+em strong {color: #080808;}
 .itens {font-style: italic; color: black;}
 .beneficios {background: #342d2d; padding: 20px;}
 ul {display: inline-block; vertical-align: top; width: 20%; margin-right: 15%;}
-.livraria{width: 100%;}
+.casa{width: 100%;}
